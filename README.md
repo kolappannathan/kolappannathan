@@ -1,4 +1,4 @@
-### Hi there 👋🏽
+## 👋🏽 Hi there
 
 👨🏽‍💻 I am a Software developer working mostly in C# and SQL.
 
