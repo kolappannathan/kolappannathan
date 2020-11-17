@@ -11,4 +11,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-KolappanNathan-blue?style=flat-square&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/kolappannathan)
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-kolappan-blue?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/5407188/)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kolappannathan&show_icons=true)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kolappannathan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
