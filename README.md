@@ -1,10 +1,10 @@
-## 👋🏽 Hi there
+## 👋🏽 Hi there, I'm Kolappan
 
-👨🏽‍💻 I am a Software developer working mostly in C# and SQL
+👨🏽‍💻 I am a Software developer.
 
-✍🏽 I have been blogging since 2014
+👨🏽‍💻 I have worked on C#, .Net, SQL, Jekyll and Angular.
 
-🌐 Check out my website @ [kolappan.dev](https://kolappan.dev/)
+✍🏽 I have been blogging since 2014.
 
 [![Website](https://img.shields.io/badge/Website-kolappan.dev-blue?style=flat-square&logo=firefox-browser)](https://twitter.com/KolappanNathan)
 [![Twitter](https://img.shields.io/badge/Twitter-@kolappannathan-blue?style=flat-square&logo=twitter)](https://twitter.com/KolappanNathan)
