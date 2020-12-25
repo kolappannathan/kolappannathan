@@ -6,10 +6,13 @@
 
 ✍🏽 I have been blogging since 2014.
 
-[![Website](https://img.shields.io/badge/Website-kolappan.dev-blue?style=flat-square&logo=firefox-browser)](https://twitter.com/KolappanNathan)
-[![Twitter](https://img.shields.io/badge/Twitter-@kolappannathan-blue?style=flat-square&logo=twitter)](https://twitter.com/KolappanNathan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-KolappanNathan-blue?style=flat-square&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/kolappannathan)
-[![Stack Overflow](https://img.shields.io/badge/StackOverflow-kolappan-blue?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/5407188/)
+<img height="12" width="12" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/firefoxbrowser.svg" /> Check out my website at [kolappan.dev](https://kolappan.dev)
+
+## Profiles
+
+[<img height="12" width="12" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" /> Twitter](https://twitter.com/KolappanNathan) &bull;
+[<img height="12" width="12" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" /> LinkedIn](https://www.linkedin.com/in/kolappannathan) &bull;
+[<img height="12" width="12" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/stackoverflow.svg" /> Stack Overflow](https://stackoverflow.com/users/5407188/)
 
 <hr>
 
