@@ -11,7 +11,9 @@
 [<img height="12" width="12" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/firefoxbrowser.svg" /> Website](https://kolappan.dev) &bull;
 [<img height="12" width="12" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" /> Twitter](https://twitter.com/KolappanNathan) &bull;
 [<img height="12" width="12" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" /> LinkedIn](https://www.linkedin.com/in/kolappannathan) &bull;
-[<img height="12" width="12" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/stackoverflow.svg" /> Stack Overflow](https://stackoverflow.com/users/5407188/)
+[<img height="12" width="12" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg" /> YouTube](https://www.youtube.com/c/KolappanKols) &bull;
+[<img height="12" width="12" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/nuget.svg" /> NuGet](https://www.nuget.org/profiles/kolappannathan) &bull;
+[<img height="12" width="12" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/npm.svg" /> NPM](https://www.npmjs.com/~kolappannathan)
 
 <hr>
 
