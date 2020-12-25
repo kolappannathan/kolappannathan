@@ -1,14 +1,33 @@
-## 👋🏽 Hi there
+## 👋🏽 Hi there, I'm Kolappan
 
-👨🏽‍💻 I am a Software developer working mostly in C# and SQL
+👨🏽‍💻 I am a Software developer.
 
-✍🏽 I have been blogging since 2014
+👨🏽‍💻 I work on C#, .Net, SQL, Jekyll and Angular.
 
-🌐 Check out my website @ [kolappan.dev](https://kolappan.dev/)
+✍🏽 I have been blogging since 2014.
 
-[![Website](https://img.shields.io/badge/Website-kolappan.dev-blue?style=flat-square&logo=firefox-browser)](https://twitter.com/KolappanNathan)
-[![Twitter](https://img.shields.io/badge/Twitter-@kolappannathan-blue?style=flat-square&logo=twitter)](https://twitter.com/KolappanNathan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-KolappanNathan-blue?style=flat-square&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/kolappannathan)
-[![Stack Overflow](https://img.shields.io/badge/StackOverflow-kolappan-blue?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/5407188/)
+## Profiles
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kolappannathan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[<img height="12" width="12" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/firefoxbrowser.svg" /> Website](https://kolappan.dev) &bull;
+[<img height="12" width="12" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" /> Twitter](https://twitter.com/KolappanNathan) &bull;
+[<img height="12" width="12" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" /> LinkedIn](https://www.linkedin.com/in/kolappannathan) &bull;
+[<img height="12" width="12" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg" /> YouTube](https://www.youtube.com/c/KolappanKols) &bull;
+[<img height="12" width="12" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/nuget.svg" /> NuGet](https://www.nuget.org/profiles/kolappannathan) &bull;
+[<img height="12" width="12" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/npm.svg" /> NPM](https://www.npmjs.com/~kolappannathan)
+
+---
+
+### 📘 Latest Blog Posts
+
+<!-- PERSONAL-BLOG-POST-LIST:START -->
+<!-- PERSONAL-BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://kolappan.dev/blog)
+
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kolappannathan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+</details>
