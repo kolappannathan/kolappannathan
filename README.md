@@ -15,7 +15,16 @@
 [<img height="12" width="12" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/nuget.svg" /> NuGet](https://www.nuget.org/profiles/kolappannathan) &bull;
 [<img height="12" width="12" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/npm.svg" /> NPM](https://www.npmjs.com/~kolappannathan)
 
-<hr>
+---
+
+### 📘 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://kolappan.dev/blog)
+
+---
 
 <details>
   <summary>:zap: GitHub Stats</summary>
