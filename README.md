@@ -19,8 +19,8 @@
 
 ### 📘 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- PERSONAL-BLOG-POST-LIST:START -->
+<!-- PERSONAL-BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://kolappan.dev/blog)
 
