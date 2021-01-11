@@ -20,11 +20,11 @@
 ### 📘 Latest Blog Posts
 
 <!-- PERSONAL-BLOG-POST-LIST:START -->
+- [Rules / Filters in Emails are awesome even if you don’t receive a ton of emails.](https://kolappan.dev/2021/01/10/rules-filters-in-email.html)
 - [Debloating Samsung M01s](https://kolappan.dev/2020/12/19/debloating-samsumg-m01s.html)
 - [Goodbye Google Fonts](https://kolappan.dev/2020/12/14/goodbye-google-fonts.html)
 - [Call stack &amp; Stack overflow explained](https://kolappan.dev/2020/11/11/call-stack-and-stack-overflow.html)
 - [Adding app shortcuts / Jumplist shortcuts to PWA](https://kolappan.dev/2020/11/06/adding-shortcuts-to-pwa.html)
-- [Deploying NuGet package using GitHub Actions (without any marketplace actions)](https://kolappan.dev/2020/10/06/deploying-nuget-using-gh-actions.html)
 <!-- PERSONAL-BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://kolappan.dev/blog)
