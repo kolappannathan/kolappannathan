@@ -20,11 +20,11 @@
 ### 📘 Latest Blog Posts
 
 <!-- PERSONAL-BLOG-POST-LIST:START -->
+- [Customizing Windows Terminal with Oh my Posh 3](https://kolappan.dev/2021/03/12/customizing-windows-terminal-with-oh-my-posh.html)
 - [Publishing an IIS site to Azure App Service](https://kolappan.dev/2021/03/01/publishing-IIS-site-to-Azure-app-service.html)
 - [What is GitHub Profile Readme &amp; How to create one?](https://kolappan.dev/2021/01/13/github-profile-readme.html)
 - [Rules / Filters in Emails are awesome even if you don’t receive a ton of emails](https://kolappan.dev/2021/01/10/rules-filters-in-email.html)
 - [Debloating Samsung M01s](https://kolappan.dev/2020/12/19/debloating-samsumg-m01s.html)
-- [Goodbye Google Fonts](https://kolappan.dev/2020/12/14/goodbye-google-fonts.html)
 <!-- PERSONAL-BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://kolappan.dev/blog)
