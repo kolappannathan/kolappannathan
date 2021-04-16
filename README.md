@@ -20,11 +20,11 @@
 ### 📘 Latest Blog Posts
 
 <!-- PERSONAL-BLOG-POST-LIST:START -->
+- [Creating &amp; Managing custom blocklists in the Azure Content Moderator service](https://kolappan.dev/2021/04/10/creating-and-managing-blocklists-in-azure-content-moderator.html)
 - [Moderate comments on your website using Azure Content Moderator](https://kolappan.dev/2021/03/21/moderate-comments-using-azure-content-moderator.html)
 - [Customizing Windows Terminal with Oh my Posh 3](https://kolappan.dev/2021/03/12/customizing-windows-terminal-with-oh-my-posh.html)
 - [Publishing an IIS site to Azure App Service](https://kolappan.dev/2021/03/01/publishing-IIS-site-to-Azure-app-service.html)
 - [What is GitHub Profile Readme &amp; How to create one?](https://kolappan.dev/2021/01/13/github-profile-readme.html)
-- [Rules / Filters in Emails are awesome even if you don’t receive a ton of emails](https://kolappan.dev/2021/01/10/rules-filters-in-email.html)
 <!-- PERSONAL-BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://kolappan.dev/blog)
