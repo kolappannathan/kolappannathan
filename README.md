@@ -18,11 +18,11 @@
 ### 📘 Latest Blog Posts
 
 <!-- PERSONAL-BLOG-POST-LIST:START -->
+- [Enabling Code Syntax Highlighting in Jekyll](https://kolappan.dev/2021/05/09/syntax-highlighting-in-jekyll.html)
+- [Disable Google’s FLOC on your website](https://kolappan.dev/2021/05/08/disable-floc-on-your-website.html)
 - [Signing your GitHub commits using GPG keys on Windows](https://kolappan.dev/2021/04/29/signing-your-commits.html)
 - [Give Azure Data Studio a try, if you are a user of SSMS](https://kolappan.dev/2021/04/17/try-azure-data-studio.html)
 - [Creating &amp; Managing custom blocklists in the Azure Content Moderator service](https://kolappan.dev/2021/04/10/creating-and-managing-blocklists-in-azure-content-moderator.html)
-- [Moderate comments on your website using Azure Content Moderator](https://kolappan.dev/2021/03/21/moderate-comments-using-azure-content-moderator.html)
-- [Customizing Windows Terminal with Oh my Posh 3](https://kolappan.dev/2021/03/12/customizing-windows-terminal-with-oh-my-posh.html)
 <!-- PERSONAL-BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://kolappan.dev/blog)
