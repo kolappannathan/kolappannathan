@@ -1,19 +1,17 @@
 ## 👋🏽 Hi there, I'm Kolappan
 
+[![Website](https://img.shields.io/badge/Website-kolappan.dev-informational?style=flat-square&logo=microsoft%20edge&logoColor=white)](https://kolappan.dev)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/KolappanNathan)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-006192?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kolappannathan)
+[![YouTube](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&logo=youtube)](https://www.youtube.com/c/KolappanKols)
+[![NuGet](https://img.shields.io/badge/-NuGet-004880?style=flat-square&logo=nuget)](https://www.nuget.org/profiles/kolappannathan)
+[![NPM](https://img.shields.io/badge/-NPM-CC3534?style=flat-square&logo=npm)](https://www.npmjs.com/~kolappannathan)
+
 👨🏽‍💻 I am a Software developer.
 
 👨🏽‍💻 I work on C#, .Net, SQL, Jekyll and Angular.
 
 ✍🏽 I have been blogging since 2014.
-
-## Profiles
-
-[<img height="12" width="12" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/firefoxbrowser.svg" /> Website](https://kolappan.dev) &bull;
-[<img height="12" width="12" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" /> Twitter](https://twitter.com/KolappanNathan) &bull;
-[<img height="12" width="12" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" /> LinkedIn](https://www.linkedin.com/in/kolappannathan) &bull;
-[<img height="12" width="12" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg" /> YouTube](https://www.youtube.com/c/KolappanKols) &bull;
-[<img height="12" width="12" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/nuget.svg" /> NuGet](https://www.nuget.org/profiles/kolappannathan) &bull;
-[<img height="12" width="12" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/npm.svg" /> NPM](https://www.npmjs.com/~kolappannathan)
 
 ---
 
