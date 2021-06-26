@@ -17,11 +17,11 @@
 ### 📘 Latest Blog Posts
 
 <!-- PERSONAL-BLOG-POST-LIST:START -->
+- [Windows 11 is here and here is my thoughts on it](https://kolappan.dev/blog/2021/windows-11-is-announced/)
+- [Switching my blog from Jekyll to Hugo](https://kolappan.dev/blog/2021/switching-to-hugo/)
 - [Creating a blog archive page in Jekyll](https://kolappan.dev/blog/2021/creating-ablog-archive-page-in-jekyll/)
 - [Enabling Code Syntax Highlighting in Jekyll](https://kolappan.dev/blog/2021/syntax-highlighting-in-jekyll/)
 - [Disable Google's FLOC on your website](https://kolappan.dev/blog/2021/disable-floc-on-your-website/)
-- [Signing your GitHub commits using GPG keys on Windows](https://kolappan.dev/blog/2021/signing-your-commits/)
-- [Give Azure Data Studio a try, if you are a user of SSMS](https://kolappan.dev/blog/2021/try-azure-data-studio/)
 <!-- PERSONAL-BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://kolappan.dev/blog)
