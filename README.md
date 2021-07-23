@@ -17,11 +17,11 @@
 ### 📘 Latest Blog Posts
 
 <!-- PERSONAL-BLOG-POST-LIST:START -->
+- [Thoughts on Mi Band 5](https://kolappan.dev/blog/2021/how-good-is-mi-band-5/)
 - [Formatting numeric literals using digit separators in C#](https://kolappan.dev/blog/2021/digit-separator-in-csharp/)
 - [Creating responsive images in Hugo](https://kolappan.dev/blog/2021/making-images-resposive-in-hugo/)
 - [Alternatives for Google Analytics](https://kolappan.dev/blog/2021/alternative-for-google-analytics/)
 - [Implementing local site search in Hugo using Jets.js](https://kolappan.dev/blog/2021/local-search-in-hugo/)
-- [Windows 11 is here and here is my thoughts on it](https://kolappan.dev/blog/2021/windows-11-is-announced/)
 <!-- PERSONAL-BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://kolappan.dev/blog)
