@@ -8,7 +8,7 @@
 
 👨🏽‍💻 I am a Software developer.
 
-👨🏽‍💻 I work on C#, .Net, SQL, Jekyll and Angular.
+👨🏽‍💻 I work on C#, .Net, SQL and Angular.
 
 ✍🏽 I have been blogging since 2014.
 
