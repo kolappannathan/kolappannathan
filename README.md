@@ -17,11 +17,11 @@
 ### 📘 Latest Blog Posts
 
 <!-- PERSONAL-BLOG-POST-LIST:START -->
+- [Speeding up your Windows 11 PC](https://kolappan.dev/blog/2020/speeding-up-your-windows-pc/)
+- [Disabling OEM services in Windows](https://kolappan.dev/blog/2020/disabling-oem-services-in-windows/)
 - [How to delete all events from Outlook.com's main calendar](https://kolappan.dev/blog/2021/deleting-events-from-outlook-cal/)
 - [My Productivity Setup (a to-do list, a journal and a calendar)](https://kolappan.dev/blog/2021/my-productivity-setup/)
 - [Creating table of contents in Hugo](https://kolappan.dev/blog/2021/table-of-contents-in-hugo/)
-- [Using Firefox Multi-account containers for improving Privacy](https://kolappan.dev/blog/2021/using-firefox-containers-for-privacy/)
-- [Thoughts on Mi Band 5](https://kolappan.dev/blog/2021/how-good-is-mi-band-5/)
 <!-- PERSONAL-BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://kolappan.dev/blog)
