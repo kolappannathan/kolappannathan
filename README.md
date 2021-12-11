@@ -31,5 +31,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
   
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kolappannathan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kolappannathan&show_icons=true#gh-light-mode-only)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kolappannathan&show_icons=true&theme=dark#gh-dark-mode-only)
 </details>
