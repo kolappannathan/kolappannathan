@@ -17,11 +17,11 @@
 ### 📘 Latest Blog Posts
 
 <!-- PERSONAL-BLOG-POST-LIST:START -->
-- [Constants and static readonly variables, A Comparison](https://kolappan.dev/blog/2018/constants-vs-static-readonly/)
-- [Speeding up your Windows 11 PC](https://kolappan.dev/blog/2020/speeding-up-your-windows-pc/)
-- [Disabling OEM services in Windows](https://kolappan.dev/blog/2020/disabling-oem-services-in-windows/)
-- [How to delete all events from Outlook.com's main calendar](https://kolappan.dev/blog/2021/deleting-events-from-outlook-cal/)
-- [My Productivity Setup (a to-do list, a journal and a calendar)](https://kolappan.dev/blog/2021/my-productivity-setup/)
+- [Constants and static readonly variables, A Comparison](https://www.kolappan.dev/blog/2018/constants-vs-static-readonly/)
+- [Speeding up your Windows 11 PC](https://www.kolappan.dev/blog/2020/speeding-up-your-windows-pc/)
+- [Disabling OEM services in Windows](https://www.kolappan.dev/blog/2020/disabling-oem-services-in-windows/)
+- [How to delete all events from Outlook.com's main calendar](https://www.kolappan.dev/blog/2021/deleting-events-from-outlook-cal/)
+- [My Productivity Setup (a to-do list, a journal and a calendar)](https://www.kolappan.dev/blog/2021/my-productivity-setup/)
 <!-- PERSONAL-BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://kolappan.dev/blog)
