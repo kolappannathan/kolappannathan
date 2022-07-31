@@ -17,11 +17,11 @@
 ### 📘 Latest Blog Posts
 
 <!-- PERSONAL-BLOG-POST-LIST:START -->
-- [Adding Cloudfare CDN to Azure Storage](https://www.kolappan.dev/blog/2022/adding-cloudfare-to-azure-storage/)
-- [How to use bootstrap tables in Hugo](https://www.kolappan.dev/blog/2022/bootstrap-tables-in-hugo/)
-- [Productivity tips for Windows Terminal](https://www.kolappan.dev/blog/2019/windows-terminal-tips/)
-- [Constants and static readonly variables, A Comparison](https://www.kolappan.dev/blog/2018/constants-vs-static-readonly/)
-- [Speeding up your Windows 11 PC](https://www.kolappan.dev/blog/2020/speeding-up-your-windows-pc/)
+- [Adding Cloudfare CDN to Azure Storage](https://www.kolappan.com/blog/2022/adding-cloudfare-to-azure-storage/)
+- [How to use bootstrap tables in Hugo](https://www.kolappan.com/blog/2022/bootstrap-tables-in-hugo/)
+- [Productivity tips for Windows Terminal](https://www.kolappan.com/blog/2019/windows-terminal-tips/)
+- [Constants and static readonly variables, A Comparison](https://www.kolappan.com/blog/2018/constants-vs-static-readonly/)
+- [Speeding up your Windows 11 PC](https://www.kolappan.com/blog/2020/speeding-up-your-windows-pc/)
 <!-- PERSONAL-BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://kolappan.dev/blog)
