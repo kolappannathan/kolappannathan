@@ -15,4 +15,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@1.5.6
         with:
           comment_tag_name: "PERSONAL-BLOG-POST-LIST"
-          feed_list: "https://www.kolappan.dev/blog/feed.xml"
+          feed_list: "https://www.kolappan.com/blog/feed.xml"
