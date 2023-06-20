@@ -1,6 +1,6 @@
 ## 👋🏽 Hi there, I'm Kolappan
 
-[![Website](https://img.shields.io/badge/Website-kolappan.com-informational?style=flat-square&logo=google%20chrome&logoColor=white)](https://kolappan.com)
+[![Website](https://img.shields.io/badge/Blog-kolappan.com-informational?style=flat-square&logo=google%20chrome&logoColor=white)](https://kolappan.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-006192?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kolappannathan)
 [![NuGet](https://img.shields.io/badge/-NuGet-004880?style=flat-square&logo=nuget)](https://www.nuget.org/profiles/kolappannathan)
 [![NPM](https://img.shields.io/badge/-NPM-CC3534?style=flat-square&logo=npm)](https://www.npmjs.com/~kolappannathan)
