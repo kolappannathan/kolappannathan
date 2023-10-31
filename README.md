@@ -16,11 +16,11 @@
 ### 📘 Latest Blog Posts
 
 <!-- PERSONAL-BLOG-POST-LIST:START -->
+- [Automatic dark or light theme selection for Bootstrap 5](https://kolappan.com/blog/2023/auto-theme-selection-with-bootstrap-5/)
 - [How to pair and connect to Official Rubik's Bluetooth speaker](https://kolappan.com/blog/2023/connecting-rubik-bluetooth-speaker/)
 - [Adding Cloudfare CDN to Azure Storage](https://kolappan.com/blog/2022/adding-cloudfare-to-azure-storage/)
 - [How to use bootstrap tables in Hugo](https://kolappan.com/blog/2022/bootstrap-tables-in-hugo/)
 - [Productivity tips for Windows Terminal](https://kolappan.com/blog/2019/windows-terminal-tips/)
-- [Constants and static readonly variables, A Comparison](https://kolappan.com/blog/2018/constants-vs-static-readonly/)
 <!-- PERSONAL-BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://kolappan.dev/blog)
