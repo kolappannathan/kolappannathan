@@ -1,6 +1,5 @@
 name: Update blog post list
 
-
 on:
   schedule:
     # Runs once every five days
