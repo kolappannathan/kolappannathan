@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-006192?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kolappannathan)
 [![NuGet](https://img.shields.io/badge/-NuGet-004880?style=flat-square&logo=nuget)](https://www.nuget.org/profiles/kolappannathan)
 [![NPM](https://img.shields.io/badge/-NPM-CC3534?style=flat-square&logo=npm)](https://www.npmjs.com/~kolappannathan)
-[![NPM](https://img.shields.io/badge/-Unsplash-555555?style=flat-square&logo=Unsplash)](https://unsplash.com/@kolappannathan)
+[![Unsplash](https://img.shields.io/badge/-Unsplash-555555?style=flat-square&logo=Unsplash)](https://unsplash.com/@kolappannathan)
 
 👨🏽‍💻 I am a Software developer.
 
