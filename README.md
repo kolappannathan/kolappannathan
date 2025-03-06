@@ -21,7 +21,7 @@
 - [How to pair and connect to Official Rubik's Bluetooth speaker](https://kolappan.com/blog/2023/connecting-rubik-bluetooth-speaker/)
 - [Adding Cloudfare CDN to Azure Storage](https://kolappan.com/blog/2022/adding-cloudfare-to-azure-storage/)
 - [How to use bootstrap tables in Hugo](https://kolappan.com/blog/2022/bootstrap-tables-in-hugo/)
-- [How to delete all events from Outlook.com's main calendar](https://kolappan.com/blog/2021/deleting-events-from-outlook-cal/)
+- [How to set Cache-Control Header in AWS CloudFront?](https://kolappan.com/blog/2021/cloudfront-cache-control-headers/)
 <!-- PERSONAL-BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://kolappan.dev/blog)
