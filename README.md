@@ -25,10 +25,3 @@
 <!-- PERSONAL-BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://kolappan.dev/blog)
-
----
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kolappannathan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-</details>
