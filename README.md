@@ -17,11 +17,11 @@
 ### 📘 Latest Blog Posts
 
 <!-- PERSONAL-BLOG-POST-LIST:START -->
+- [Debugging NG0750 error in Angular](https://kolappan.com/blog/2026/ng0750-error/)
 - [Updating memories in LLMs in bulk](https://kolappan.com/blog/2025/updating-memories-on-llms/)
 - [Solution - Docker desktop shows error WSL needs updating](https://kolappan.com/blog/2025/docker-desktop-wsl-error/)
 - [My Journey in switching to Linux](https://kolappan.com/blog/2025/switching-to-linux/)
 - [How to hard reset Lenovo Tab TB-X606V](https://kolappan.com/blog/2025/reset-lenovo-tab-tb-x606v/)
-- [Automatic dark or light theme selection for Bootstrap 5](https://kolappan.com/blog/2023/auto-theme-selection-with-bootstrap-5/)
 <!-- PERSONAL-BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://kolappan.dev/blog)
